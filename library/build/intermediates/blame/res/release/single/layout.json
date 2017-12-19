@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\category_tab.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\category_tab.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\textviewmore.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\textviewmore.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\city_pop_main_layout.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\city_pop_main_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\city_picker.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\city_picker.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\base.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\res\\merged\\release\\layout\\city_main_click.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\src\\main\\res\\layout\\city_main_click.xml"
+    }
+]

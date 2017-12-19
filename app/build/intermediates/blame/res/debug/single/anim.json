@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_in.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\pop_in.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_out.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\pop_out.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_animation.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\anim\\loading_animation.xml"
+    }
+]

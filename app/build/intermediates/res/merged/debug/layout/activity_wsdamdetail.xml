@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical"
+    >
+    <include
+        layout="@layout/title_bar"
+        />
+    <TextView
+        android:id="@+id/wsdamdetail_choosetime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp_10"
+        android:background="@color/white"
+        android:text="点击选择时间"
+        android:gravity="center"
+        android:textColor="@color/title_bg"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp_10"
+        android:layout_marginTop="5dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="水库名称:"
+            android:textColor="@color/color_333333"
+            android:textSize="16sp"/>
+        <TextView
+            android:id="@+id/tv_wsdamdetail_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="--"
+            android:textColor="@color/title_bg"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+    <com.xsyj.rcirrigation.customview.LJListView
+        android:id="@+id/xListView_wsdamdetail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:layout_marginRight="@dimen/dp_10"
+        />
+
+</LinearLayout>

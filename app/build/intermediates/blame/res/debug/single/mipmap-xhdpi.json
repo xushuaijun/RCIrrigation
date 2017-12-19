@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_progress_bar.png",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_progress_bar.png"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

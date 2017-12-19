@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical"
+    >
+    <include
+        android:id="@+id/title"
+        layout="@layout/title_bar"
+        />
+
+
+
+    <RadioGroup
+        android:id="@+id/wstatistic_rgp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/light_gray"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentBottom="true"
+        >
+        <RadioButton
+            android:id="@+id/rbtn_wstatistic_dam"
+            android:layout_width="@dimen/dp_0"
+            android:layout_weight="1"
+            android:button="@null"
+            android:text="塘坝水库"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@drawable/text_blue_selector"
+            android:gravity="center"
+            android:checked="true"/>
+        <RadioButton
+            android:id="@+id/rbtn_wstatistic_pumpstation"
+            android:layout_width="@dimen/dp_0"
+            android:layout_weight="1"
+            android:button="@null"
+            android:text="泵站"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@drawable/text_blue_selector"
+            android:gravity="center"/>
+        <RadioButton
+            android:id="@+id/rbtn_wstatistic_pipeline"
+            android:layout_width="@dimen/dp_0"
+            android:layout_weight="1"
+            android:button="@null"
+            android:text="管道"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@drawable/text_blue_selector"
+            android:gravity="center"/>
+    </RadioGroup>
+
+    <FrameLayout
+        android:id="@+id/irrfore_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/title"
+        android:layout_above="@id/wstatistic_rgp"
+        android:layout_weight="1">
+    </FrameLayout>
+
+</RelativeLayout>

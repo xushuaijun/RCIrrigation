@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical"
+    >
+    <include
+        layout="@layout/title_bar"
+        />
+
+    <TextView
+        android:id="@+id/tv_pilelinedetail_choosetime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp_10"
+        android:background="@color/white"
+        android:text="点击选择时间"
+        android:gravity="center"
+        android:textColor="@color/title_bg"/>
+
+
+    <com.xsyj.rcirrigation.customview.LJListView
+        android:id="@+id/xListView_pilelinedetail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:layout_marginRight="@dimen/dp_10"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/dp_10"
+        android:background="@color/white"
+        >
+
+        <TextView
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="开阀"
+            android:gravity="center"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@color/title_bg"/>
+
+        <View
+            android:layout_width="@dimen/dp_1"
+            android:layout_height="match_parent"
+            android:background="@color/bg_gray"/>
+
+        <TextView
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="关阀"
+            android:gravity="center"
+            android:textSize="@dimen/sp_16"
+            android:layout_marginLeft="@dimen/dp_1"
+            android:textColor="@color/title_bg"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

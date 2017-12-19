@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pumpwellinfo_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pumpwellinfo_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fwstatisticdam_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\fwstatisticdam_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wspumpdetailcharts.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_wspumpdetailcharts.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usercenter.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_usercenter.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pipelinedetailcharts.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pipelinedetailcharts.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpstation.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpstation.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wsdamdetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_wsdamdetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ljlistview_header.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\ljlistview_header.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pumpstationinfo_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pumpstationinfo_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ljlistview_infohint.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\ljlistview_infohint.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daminfo.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_daminfo.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpwellinfo.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpwellinfo.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fwstatisticpump_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\fwstatisticpump_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipelineinfo_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pipelineinfo_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ljlistview.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\ljlistview.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pipelineinfo.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pipelineinfo.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pipeline.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pipeline.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_pop_main_layout.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\city_pop_main_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basicinfo.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_basicinfo.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipeinfodetail_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pipeinfodetail_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daminfo_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\daminfo_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pumpstatmonidetail_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pumpstatmonidetail_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wspiledetailcharts.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_wspiledetailcharts.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpwellinfodetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpwellinfodetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pilelinedetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pilelinedetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\city_picker.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wspipedetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_wspipedetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fwstatisticpipe_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\fwstatisticpipe_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pipelineinfodetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pipelineinfodetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dammonitor.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_dammonitor.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pumpstatmon_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pumpstatmon_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wstatisticpump.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\fragment_wstatisticpump.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slideshow.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\layout_slideshow.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipeline_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pipeline_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daminfodetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_daminfodetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpstationinfo.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpstationinfo.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dammon_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\dammon_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wstatisticpipe.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\fragment_wstatisticpipe.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wspumpcharts.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_wspumpcharts.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\damdetail_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\damdetail_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_waterstatistic.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_waterstatistic.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\base.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_tab.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\category_tab.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textviewmore.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\textviewmore.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dammonitordetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_dammonitordetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpstationcharts.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpstationcharts.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ljlistview_footer.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\ljlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wstatisticdam.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\fragment_wstatisticdam.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpstationdetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpstationdetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wspumpdetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_wspumpdetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pipelinedetail_list_item.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pipelinedetail_list_item.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_selecttime.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\pop_selecttime.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_main_click.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\library\\build\\intermediates\\bundles\\default\\res\\layout\\city_main_click.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pumpstationinfodetail.xml",
+        "source": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\src\\main\\res\\layout\\activity_pumpstationinfodetail.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\xmh\\project\\RC\\RCIrrigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\xmh\\.android\\build-cache\\3f468be6e63a396daca59c48be5d62bd4fd75355\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]
